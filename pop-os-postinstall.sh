@@ -97,6 +97,7 @@ PROGRAMAS_PARA_INSTALAR=(
   gnome-sushi 
   folder-color
   git
+  pycharm
  
 )
 # ---------------------------------------------------------------------- #
